@@ -1,15 +1,20 @@
-<div align="center">
+<div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=bmoglu.bmoglu&"  />
 </div>
 
-###
+<h1>Hi 👋, I'm Berat</h1>
+<p>A passionate game developer from world!</p>
+<br>
 
+###
+# 💻 Tech Stack
+<br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=unity" height="70" alt="unity logo"  />
+  <img src="https://skillicons.dev/icons?i=unity" height="80" alt="unity logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="70" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="80" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="70" alt="dot-net logo"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="80" alt="dot-net logo"  />
 </div>
 
 ###
@@ -39,13 +44,14 @@
 </div>
 
 ###
-
+# 🌐 Socials
+<br>
 <div align="center">
   <a href="https://www.linkedin.com/in/bmoglu/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://stackoverflow.com/users/15803441/bmoglu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  />
   </a>
 </div>
 
