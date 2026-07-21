@@ -1,55 +1,67 @@
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bmoglu.bmoglu&"  />
+<div align="center">
+
+# Hi, I'm Berat 👋
+
+**Senior Game Developer · Unity** — 7+ years shipping & operating mobile games with **60M+ combined installs**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bmoglu/)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/15803441/bmoglu)
+
 </div>
 
-<h1>Hi 👋, I'm Berat</h1>
-<p>A passionate game developer from 🌍</p>
+---
 
-###
-# 💻 Core Skills
-<div align="left">
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="50" alt="unity logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="50" alt="csharp logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="50" alt="dot-net logo"  />
+### 🎯 About
+
+Senior game developer based in Istanbul, focused on Unity & C#. I own game architecture, performance optimization, and LiveOps end-to-end for live mobile titles — from data-driven gameplay systems to CI/CD pipelines and production incident response.
+
+- 🏗️ Data-driven architecture with ScriptableObjects, dependency injection (Zenject/Extenject), and decoupled event/service layers
+- ⚙️ Performance work that has cut GC allocations by ~40% and app load time by ~50%
+- 🚀 Owned CI/CD (Fastlane, TeamCity) and LiveOps tooling (Firebase Remote Config) for live titles at 99.8%+ crash-free sessions
+
+### 🛠️ Stack
+
+**Game Development**
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+**Mobile & LiveOps**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=flat&logo=googleplay&logoColor=white)
+![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=flat&logo=appstore&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-1E2528?style=flat&logo=fastlane&logoColor=white)
+
+**Also using**
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+
+
+### 📌 Featured Repositories
+
+| Project | Description |
+|---|---|
+| [**singleton**](https://github.com/bmoglu/singleton) | Lightweight Singleton pattern implementation for Unity |
+| [**select-all-of-tag**](https://github.com/bmoglu/select-all-of-tag) | Editor script to select all scene objects sharing a tag |
+| [**sprite-processor**](https://github.com/bmoglu/sprite-processor) | Editor tool that auto-configures texture import settings |
+
+### 🏆 Achievements
+
+![Arctic Code Vault Contributor](https://img.shields.io/badge/Arctic%20Code%20Vault%20Contributor-2F80ED?style=flat) ![Pull Shark x2](https://img.shields.io/badge/Pull%20Shark-x2-FF69B4?style=flat)
+
+---
+
+<div align="center">
+
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/bmoglu/) · [Stack Overflow](https://stackoverflow.com/users/15803441/bmoglu)
+
 </div>
-
-###
-## ➕ Additional Skills
-<div align="left">
-  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge" height="30" alt="unrealengine logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30" alt="c logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="30" alt="php logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="30" alt="arduino logo"  />
-</div>
-
-###
-# 🌐 Socials
-<div align="left">
-  <a href="https://www.linkedin.com/in/bmoglu/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/15803441/bmoglu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=plastic" height="35" alt="stackoverflow logo"  />
-  </a>
-</div>
-
-###
