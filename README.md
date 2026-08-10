@@ -1,8 +1,9 @@
 <div align="center">
 
-# Hi, I'm Berat 👋
+# Berat
 
-**Senior Game Developer · Unity** — 7+ years shipping & operating mobile games with **60M+ combined installs**
+**Senior Game Developer · Unity & C#** — 7+ years building and operating live mobile games
+Shipped titles with **60M+ combined installs**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bmoglu/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/15803441/bmoglu)
@@ -11,17 +12,26 @@
 
 ---
 
-### 🎯 About
+### 🎯 What I do
 
-Senior game developer based in Istanbul, focused on Unity & C#. I own game architecture, performance optimization, and LiveOps end-to-end for live mobile titles — from data-driven gameplay systems to CI/CD pipelines and production incident response.
+I'm based in Istanbul and work in Unity & C#. I own the parts of a mobile game that decide
+whether it survives after launch — architecture, performance, and the LiveOps loop — on
+titles that stay in the store and keep getting updated.
 
-- 🏗️ Data-driven architecture with ScriptableObjects, dependency injection (Zenject/Extenject), and decoupled event/service layers
-- ⚙️ Performance work that has cut GC allocations by ~40% and app load time by ~50%
-- 🚀 Owned CI/CD (Fastlane, TeamCity) and LiveOps tooling (Firebase Remote Config) for live titles at 99.8%+ crash-free sessions
+- **Architecture** — data-driven gameplay with ScriptableObjects and DI (Zenject/Extenject),
+  decoupled event and service layers, so a new feature doesn't reopen the last one
+- **Performance** — profiling-first: allocation-free hot paths, pooling, atlas and Addressables
+  budgets, startup work moved off the critical path
+- **LiveOps** — remote-configured balancing, staged rollouts and A/B tests; crash triage that
+  turns a spike into a same-day hotfix
+- **Release** — Fastlane + TeamCity pipelines, reproducible builds, TestFlight and Play tracks
+
+Outside Unity I build and ship my own iOS apps in SwiftUI, which is where most of my
+product, App Store and design work happens.
 
 ### 🛠️ Stack
 
-**Game Development**
+**Games**
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
@@ -29,34 +39,31 @@ Senior game developer based in Istanbul, focused on Unity & C#. I own game archi
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-**Mobile & LiveOps**
+**Mobile, LiveOps & release**
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=flat&logo=googleplay&logoColor=white)
-![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=flat&logo=appstore&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/Fastlane-1E2528?style=flat&logo=fastlane&logoColor=white)
+![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=flat&logo=appstore&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=flat&logo=googleplay&logoColor=white)
 
-**Also using**
+**Also work with**
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
+### 🔧 Unity tools I keep around
 
-### 📌 Featured Repositories
+Small editor utilities I use on every project and maintain in the open.
 
-| Project | Description |
+| Tool | What it does |
 |---|---|
-| [**singleton**](https://github.com/bmoglu/singleton) | Lightweight Singleton pattern implementation for Unity |
-| [**select-all-of-tag**](https://github.com/bmoglu/select-all-of-tag) | Editor script to select all scene objects sharing a tag |
-| [**sprite-processor**](https://github.com/bmoglu/sprite-processor) | Editor tool that auto-configures texture import settings |
-
-### 🏆 Achievements
-
-![Arctic Code Vault Contributor](https://img.shields.io/badge/Arctic%20Code%20Vault%20Contributor-2F80ED?style=flat) ![Pull Shark x2](https://img.shields.io/badge/Pull%20Shark-x2-FF69B4?style=flat)
+| [**singleton**](https://github.com/bmoglu/singleton) | Minimal Singleton base for Unity — no boilerplate per manager |
+| [**select-all-of-tag**](https://github.com/bmoglu/select-all-of-tag) | Selects every scene object sharing a tag, in one menu action |
+| [**sprite-processor**](https://github.com/bmoglu/sprite-processor) | Auto-applies texture import settings so sprites land correct on first import |
 
 ---
 
