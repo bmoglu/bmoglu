@@ -63,15 +63,6 @@ Where my own iOS apps live — what each one does, and what's currently in the w
 
 **[bmlabs.netlify.app](https://bmlabs.netlify.app)**
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=bmoglu&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-  <img src="https://streak-stats.demolab.com/?user=bmoglu&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub contribution streak" width="500" />
-</picture>
-
-</div>
-
 ---
 
 <div align="center">
