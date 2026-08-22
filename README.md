@@ -55,15 +55,22 @@ product, App Store and design work happens.
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
-### 🔧 Unity tools I keep around
+### BM Labs
 
-Small editor utilities I use on every project and maintain in the open.
+<a href="https://bmlabs.netlify.app"><img src="assets/bmlabs.png" width="64" alt="BM Labs" /></a>
 
-| Tool | What it does |
-|---|---|
-| [**singleton**](https://github.com/bmoglu/singleton) | Minimal Singleton base for Unity — no boilerplate per manager |
-| [**select-all-of-tag**](https://github.com/bmoglu/select-all-of-tag) | Selects every scene object sharing a tag, in one menu action |
-| [**sprite-processor**](https://github.com/bmoglu/sprite-processor) | Auto-applies texture import settings so sprites land correct on first import |
+Where my own iOS apps live — what each one does, and what's currently in the works.
+
+**[bmlabs.netlify.app](https://bmlabs.netlify.app)**
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=bmoglu&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://streak-stats.demolab.com/?user=bmoglu&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub contribution streak" width="500" />
+</picture>
+
+</div>
 
 ---
 
