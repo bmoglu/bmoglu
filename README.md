@@ -26,8 +26,8 @@ titles that stay in the store and keep getting updated.
   turns a spike into a same-day hotfix
 - **Release** — Fastlane + TeamCity pipelines, reproducible builds, TestFlight and Play tracks
 
-Outside Unity I build and ship my own iOS apps in SwiftUI, which is where most of my
-product, App Store and design work happens.
+Outside Unity I build and ship my own iOS apps in SwiftUI under Codrick, which is where most
+of my product, App Store and design work happens.
 
 ### 🛠️ Stack
 
@@ -55,13 +55,13 @@ product, App Store and design work happens.
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
-### BM Labs
+### Codrick
 
-<a href="https://bmlabs.netlify.app"><img src="assets/bmlabs.png" width="64" alt="BM Labs" /></a>
+<a href="https://codrick.com"><img src="assets/codrick.png" width="64" alt="Codrick" /></a>
 
-Where my own iOS apps live — what each one does, and what's currently in the works.
+My own iOS apps ship under **Codrick**, a mobile apps & software studio in Istanbul.
 
-**[bmlabs.netlify.app](https://bmlabs.netlify.app)**
+**[codrick.com](https://codrick.com)** · [@codrick-dev](https://github.com/codrick-dev)
 
 ---
 
