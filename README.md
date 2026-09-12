@@ -1,6 +1,6 @@
 <div align="center">
 
-# Berat
+# Berat Mehmetoğlu
 
 **Senior Game Developer · Unity & C#** · 📍 Istanbul
 
