@@ -23,7 +23,5 @@ Steam; all of it lives at **[beratmehmetoglu.com](https://beratmehmetoglu.com)**
 
 <p align="center">
 <a href="mailto:hello@beratmehmetoglu.com">Email</a> ·
-<a href="https://x.com/bmehmetogludev">X</a> ·
-<a href="https://youtube.com/@bmehmetogludev">YouTube</a> ·
 <a href="https://stackoverflow.com/users/15803441/bmoglu">Stack Overflow</a>
 </p>
