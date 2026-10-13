@@ -6,7 +6,7 @@ Steam; all of it lives at **[beratmehmetoglu.com](https://beratmehmetoglu.com)**
 
 ### What I do in games
 
-- **Prototyping** — playable in days, so an idea is kept or cut before it costs a sprint
+- **Prototyping** — building playable prototypes to find the fun before an idea goes into production
 - **Architecture** — data-driven gameplay and DI, so a new feature doesn't reopen the last one
 - **Performance** — profiling first: allocation-free hot paths, pooling, Addressables budgets
 - **LiveOps** — remote-configured balancing, A/B tests, crash triage that turns a spike into a same-day hotfix
