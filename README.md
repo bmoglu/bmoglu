@@ -1,60 +1,31 @@
-<div align="center">
+<a href="https://beratmehmetoglu.com"><img src="assets/banner.png" alt="Berat Mehmetoglu — games, apps and things in between" /></a>
 
-# Berat Mehmetoğlu
+I'm Berat, based in Istanbul. By day I'm a **senior game developer** — 7+ years in Unity & C#
+on live mobile games with **60M+ combined installs**. On my own I make small iPhone apps for everyday life
+and a game that's coming to Steam — all of it at **[beratmehmetoglu.com](https://beratmehmetoglu.com)**.
 
-**Senior Game Developer · Unity & C#** · 📍 Istanbul
+### 🛠️ What I do in games
 
-7+ years building and operating live mobile games — shipped titles with **60M+ combined installs**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bmoglu/)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/15803441/bmoglu)
-[![Codrick](https://img.shields.io/badge/codrick.com-E0483E?style=flat&logoColor=white)](https://codrick.com)
-
-</div>
-
----
-
-## 🎮 What I do
-
-I own the parts of a mobile game that decide whether it survives after launch.
-
-- 🏗️ **Architecture** — ScriptableObject-driven systems and DI, so features stay decoupled
-- ⚡ **Performance** — profiling-first: no GC in hot paths, pooling, tight asset budgets
-- 🔁 **LiveOps** — remote balancing, staged rollouts, A/B tests, same-day crash hotfixes
-- 🚀 **Release** — Fastlane and TeamCity pipelines, TestFlight and Play tracks
-
-## 🧰 Stack
-
-**Daily**
+- **Architecture** — data-driven gameplay with ScriptableObjects and DI, so a new feature doesn't reopen the last one
+- **Performance** — profiling first: allocation-free hot paths, pooling, Addressables budgets
+- **LiveOps** — remote-configured balancing, A/B tests, crash triage that turns a spike into a same-day hotfix
+- **Release** — Fastlane + TeamCity pipelines, reproducible builds, TestFlight and Play tracks
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat&logo=swift&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat&logo=fastlane&logoColor=black)
-![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=flat&logo=appstore&logoColor=white)
-![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=flat&logo=googleplay&logoColor=white)
-
-**Also**
-
-![Swift](https://img.shields.io/badge/Swift-22272E?style=flat&logo=swift&logoColor=white)
-![Unreal](https://img.shields.io/badge/Unreal-22272E?style=flat&logo=unrealengine&logoColor=white)
-![C++](https://img.shields.io/badge/C++-22272E?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-22272E?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-22272E?style=flat&logo=react&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-1E2528?style=flat&logo=fastlane&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
-<a href="https://codrick.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="codrick-wordmark-reversed.svg">
-    <img src="codrick-wordmark.svg" width="150" alt="Codrick" />
-  </picture>
-</a>
-
-<br>
-
-Outside Unity I run **Codrick**, a mobile apps & software studio in Istanbul — where my own iOS
-apps ship, and where most of my product, design and App Store work happens.
-
-**[codrick.com](https://codrick.com)** · [@codrick-dev](https://github.com/codrick-dev)
+<p align="center">
+<a href="https://beratmehmetoglu.com"><b>beratmehmetoglu.com</b></a> ·
+<a href="mailto:hello@beratmehmetoglu.com">hello@beratmehmetoglu.com</a> ·
+<a href="https://www.linkedin.com/in/bmoglu/">LinkedIn</a> ·
+<a href="https://x.com/bmehmetogludev">X</a> ·
+<a href="https://youtube.com/@bmehmetogludev">YouTube</a> ·
+<a href="https://stackoverflow.com/users/15803441/bmoglu">Stack Overflow</a>
+</p>
